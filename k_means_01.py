@@ -11,7 +11,6 @@ def euclideandistance(individual, seed):
     dist = sqrt(dist)
     return dist
 
-
 # buscar seed mais proxima
 
 def get_seed(individual, seeds):
